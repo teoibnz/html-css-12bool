@@ -25,6 +25,14 @@
     text-align: center;
 }
 
+.nested{
+    background-color: greenyellow;
+    height: 50%;
+    margin: 10px auto;
+    border-color: black;
+}
+
+
 .col {
     flex-grow: 1;
     flex-basis: 0;
